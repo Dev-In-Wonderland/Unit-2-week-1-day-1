@@ -315,7 +315,7 @@ table {
     header{
         display:none
     }
-    section{
+    section, iframe {
         display:none
 
     }
