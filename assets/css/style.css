@@ -304,6 +304,20 @@ table {
 
 }
 
+#aside-flex{
+    display: flex;
+
+}
+
+/* aside h2 {
+    display: block;
+} */
+
+#aside-flex div {
+    display: inline-block;
+    width: 100%;
+}
+
 }
 
 @media print {
