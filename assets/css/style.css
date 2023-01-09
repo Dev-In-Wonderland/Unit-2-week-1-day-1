@@ -309,5 +309,23 @@ table {
 @media print {
     body{
         background-color: white;
+        background-image: none;
+
     }
+    header{
+        display:none
+    }
+    section{
+        display:none
+
+    }
+}
+
+
+
+@media screen and (min-width: 600px){
+    table {
+        margin: 0 auto
+    }
+
 }
