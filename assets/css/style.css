@@ -267,7 +267,10 @@ table {
 
     header div img {
         display: inline-block;
-        height: 3em
+        height: 3em;
+        margin:0;
+        width: 200px;
+        margin-right: 0em
     }
     header div p {
         display: inline-block
