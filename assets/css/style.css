@@ -182,77 +182,6 @@ footer a {
 
 
 
-
-/* media query per tablet (medium) */
-
-/* @media screen and (min-width: 768px) {
-    table{
-        margin: 0 auto
-    }
-
-    form input{
-        width: auto;
-        height: auto;
-    }
-
-    button{
-        padding: auto;
-        width: auto;
-
-    }
-
-
-    header{
-        display: block;
-        height:auto
-    }
-    header div{
-        display: block;
-
-    }
-
-    header div img {
-        display: block;
-        height: auto
-    }
-    header div p {
-        display: block;
-    }
-    header nav{
-        display: block;
-    }
-    header nav ul li{
-        display: block;
-        
-
-    }
-    header nav ul {
-        padding-left: 0em;
-        
-
-    }
-
-
-
-table {
-    width: auto
-}
-
-#flex-section{
-    
-
-}
-
-#flex-section section, #flex-section iframe {
-    display: block;
-    min-height: none;
-    min-width: none;
-
-}
-    
-
-} */
-
 /* media query per laptop (large) */
 
 @media screen and (min-width: 1200px) {
@@ -313,9 +242,7 @@ table {
 
 }
 
-/* aside h2 {
-    display: block;
-} */
+
 
 #aside-flex div {
     display: inline-block;
