@@ -184,7 +184,7 @@ footer a {
 
 /* media query per tablet (medium) */
 
-@media screen and (min-width: 768px) {
+/* @media screen and (min-width: 768px) {
     table{
         margin: 0 auto
     }
@@ -238,7 +238,7 @@ table {
 }
 
 #flex-section{
-    /* display: block; */
+    
 
 }
 
@@ -250,7 +250,7 @@ table {
 }
     
 
-}
+} */
 
 /* media query per laptop (large) */
 
@@ -285,10 +285,11 @@ table {
 
     }
 
-}
+
 
 table {
-    width: 55em
+    width: 55em;
+    margin: 0 auto
 }
 
 #flex-section{
@@ -303,7 +304,7 @@ table {
 
 }
 
-
+}
 
 @media print {
     body{
